@@ -1,8 +1,6 @@
 # smart-parking-system-  
 
-Got it, Abhishek! Here’s a refined version of your Smart Parking System description, focusing **only on the software-based solution** — no hardware involved:
 
----
 
 ## 🚙 Smart Parking System (Software-Based) – Project Overview
 
